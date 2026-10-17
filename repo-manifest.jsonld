@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ros-infrastructure/pallet-patcher/commit/a6143ef05a0f5a83ba93a90d13cf949ba3def5f2",
       "git:hexsha": "a6143ef05a0f5a83ba93a90d13cf949ba3def5f2",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.3.0"
     },
     {
