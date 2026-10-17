@@ -1,0 +1,11 @@
+{
+  "org": "ros-infrastructure",
+  "repo": "pallet-patcher",
+  "versions": [
+    {
+      "commit": "a6143ef05a0f5a83ba93a90d13cf949ba3def5f2",
+      "tag": "0.3.0",
+      "parsed_at": "2026-10-17T23:28:11.836080+00:00"
+    }
+  ]
+}
